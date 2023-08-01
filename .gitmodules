@@ -1,0 +1,18 @@
+[submodule "vpnLib/src/main/cpp/openvpn"]
+	path = vpnLib/src/main/cpp/openvpn
+	url = https://github.com/schwabe/openvpn.git
+[submodule "vpnLib/src/main/cpp/openssl"]
+	path = vpnLib/src/main/cpp/openssl
+	url = https://github.com/schwabe/platform_external_openssl.git
+[submodule "vpnLib/src/main/cpp/mbedtls"]
+	path = vpnLib/src/main/cpp/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "vpnLib/src/main/cpp/openvpn3"]
+	path = vpnLib/src/main/cpp/openvpn3
+	url = https://github.com/schwabe/openvpn3.git
+[submodule "vpnLib/src/main/cpp/asio"]
+	path = vpnLib/src/main/cpp/asio
+	url = https://github.com/chriskohlhoff/asio/
+[submodule "vpnLib/src/main/cpp/lz4"]
+	path = vpnLib/src/main/cpp/lz4
+	url = https://github.com/lz4/lz4.git

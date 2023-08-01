@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpnLib/src/main/cpp/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpnLib/src/main/cpp/lz4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpnLib/src/main/cpp/mbedtls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpnLib/src/main/cpp/openssl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpnLib/src/main/cpp/openvpn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpnLib/src/main/cpp/openvpn3" vcs="Git" />
+  </component>
+</project>
