@@ -16,7 +16,7 @@ plugins {
 publishing {
     publications {
         create<MavenPublication>("maven") {
-            groupId = "com.gitlab.studioawesome"
+            groupId = "com.github.studioawesome"
             artifactId = "openvpn_library"
             version = "1.0"
 
