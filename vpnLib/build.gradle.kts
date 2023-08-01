@@ -16,7 +16,7 @@ plugins {
 publishing {
     publications {
         create<MavenPublication>("maven") {
-            groupId = "com.github.eastsss"
+            groupId = "com.gitlab.studioawesome"
             artifactId = "openvpn_library"
             version = "1.0"
 
